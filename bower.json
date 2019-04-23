@@ -1,0 +1,17 @@
+{
+  "name": "MDB-4.7.5",
+  "version": "1.0.1",
+  "authors": [
+    "Huy Thang <nhthang304@gmail.com>"
+  ],
+  "description": "",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nhubang8x/MDB-4.7.5.gits",
+  "ignore": [
+    "README.md"
+  ]
+}
